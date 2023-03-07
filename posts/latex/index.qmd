@@ -1,0 +1,15 @@
+---
+title: "10 common misconceptions about LaTeX"
+author: "baptiste"
+draft: false
+date: 2023-03-07
+categories: [announcement, general, latex]
+image: "latex.png"
+---
+
+Next week (14th March), in addition to the regular helpdesk session, I'll give a little teaser presentation (20mins) about the [software LaTeX for document preparation](https://en.m.wikipedia.org/wiki/LaTeX), for those interested. Start at 12pm. 
+
+![10 common misconceptions about LaTeX](presentation.png)
+
+(regular helpdesk drop-in session before and after)
+

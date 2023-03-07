@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>helpdesk</title>
+<link>https://vuw-scps.github.io/helpdesk/index.html</link>
+<atom:link href="https://vuw-scps.github.io/helpdesk/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.208</generator>
+<lastBuildDate>Mon, 06 Mar 2023 11:00:00 GMT</lastBuildDate>
+<item>
+  <title>10 common misconceptions about LaTeX</title>
+  <dc:creator>baptiste</dc:creator>
+  <link>https://vuw-scps.github.io/helpdesk/posts/latex/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Next week (14th March), in addition to the regular helpdesk session, I’ll give a little teaser presentation (20mins) about the <a href="https://en.m.wikipedia.org/wiki/LaTeX">software LaTeX for document preparation</a>, for those interested. Start at 12pm.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://vuw-scps.github.io/helpdesk/posts/latex/presentation.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">10 common misconceptions about LaTeX</figcaption><p></p>
+</figure>
+</div>
+<p>(regular helpdesk drop-in session before and after)</p>
+
+
+
+ ]]></description>
+  <category>announcement</category>
+  <category>general</category>
+  <category>latex</category>
+  <guid>https://vuw-scps.github.io/helpdesk/posts/latex/index.html</guid>
+  <pubDate>Mon, 06 Mar 2023 11:00:00 GMT</pubDate>
+  <media:content url="https://vuw-scps.github.io/helpdesk/posts/latex/latex.png" medium="image" type="image/png" height="83" width="144"/>
+</item>
+<item>
+  <title>First meeting</title>
+  <dc:creator>baptiste</dc:creator>
+  <link>https://vuw-scps.github.io/helpdesk/posts/opening/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Kia ora everyone</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="intro.pdf"><img src="https://vuw-scps.github.io/helpdesk/posts/opening/overview.png" class="img-fluid figure-img"></a></p>
+<p></p><figcaption class="figure-caption">Aims of the helpdesk (pdf)</figcaption><p></p>
+</figure>
+</div>
+<p>We’re launching a weekly Programming helpdesk for Physics students; it will take place on <strong>Tuesdays 11:30am–1:30pm in LB203</strong> (Physics labs). All levels (100 to 400) are welcome – we’re hoping you’ll take the opportunity to help each other in groups, but we’ll also have some academics and grad students come along to help.</p>
+<p>To get the ball rolling for the first session (Tuesday 7th March), there will be pizza and soft drinks at 12:15 pm.</p>
+<p>Once a month, we’ll also organise a 20–30 minutes “teaser” presentation on some programming topics that you may wish to explore further*.</p>
+<p>The Physics Team</p>
+<p>*: Tentative list of topics for 2023, in no particular order:</p>
+<ul>
+<li>10 common misconceptions about LaTeX</li>
+<li>R.I.P: On using R in Physics</li>
+<li>Bibliography management with Zotero and Bibtex</li>
+<li>Grammar of Graphics</li>
+<li>Computational simulations with Julia</li>
+<li>Reproducible analyses with Quarto</li>
+<li>Interactive apps with Shiny</li>
+<li>Version control and collaboration with Github</li>
+<li>Creating a personal website in 10 minutes</li>
+<li>“glue” code</li>
+</ul>
+
+
+
+ ]]></description>
+  <category>announcement</category>
+  <category>general</category>
+  <guid>https://vuw-scps.github.io/helpdesk/posts/opening/index.html</guid>
+  <pubDate>Thu, 02 Mar 2023 11:00:00 GMT</pubDate>
+  <media:content url="https://vuw-scps.github.io/helpdesk/posts/opening/banner.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

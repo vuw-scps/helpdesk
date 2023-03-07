@@ -1,0 +1,37 @@
+---
+title: "First meeting"
+author: "baptiste"
+draft: false
+date: 2023-03-03
+categories: [announcement, general]
+image: "banner.jpg"
+---
+
+Kia ora everyone
+
+
+[![Aims of the helpdesk (pdf)](overview.png)](intro.pdf)
+
+We're launching a weekly Programming helpdesk for Physics students; it will take place on **Tuesdays 11:30am–1:30pm in LB203** (Physics labs). All levels (100 to 400) are welcome – we're hoping you'll take the opportunity to help each other in groups, but we'll also have some academics and grad students come along to help.
+
+To get the ball rolling for the first session (Tuesday 7th March), there will be pizza and soft drinks at 12:15 pm. 
+
+Once a month, we'll also organise a 20–30 minutes "teaser" presentation on some programming topics that you may wish to explore further*.
+
+The Physics Team
+
+*: Tentative list of topics for 2023, in no particular order:
+
+- 10 common misconceptions about LaTeX
+- R.I.P: On using R in Physics
+- Bibliography management with Zotero and Bibtex
+- Grammar of Graphics
+- Computational simulations with Julia
+- Reproducible analyses with Quarto
+- Interactive apps with Shiny
+- Version control and collaboration with Github
+- Creating a personal website in 10 minutes
+- "glue" code
+
+
+        

@@ -1,0 +1,7 @@
+---
+title: "Python resources"
+---
+
+- [vuw-scps.github.io/python-physics/](https://vuw-scps.github.io/python-physics/): Collection of Jupyter notebooks from different courses across 100-300 Physics
+- [pandas](https://pandas.pydata.org/docs/getting_started/index.html#intro-to-pandas)
+
