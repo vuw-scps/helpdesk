@@ -51,8 +51,8 @@
 <p>Kia ora everyone</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://vuw-scps.github.io/helpdesk/posts/opening/overview.png" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Aims of the helpdesk</figcaption><p></p>
+<p><a href="intro.pdf"><img src="https://vuw-scps.github.io/helpdesk/posts/opening/overview.png" class="img-fluid figure-img"></a></p>
+<p></p><figcaption class="figure-caption">Aims of the helpdesk (pdf)</figcaption><p></p>
 </figure>
 </div>
 <p>We’re launching a weekly Programming helpdesk for Physics students; it will take place on <strong>Tuesdays 11:30am–1:30pm in LB203</strong> (Physics labs). All levels (100 to 400) are welcome – we’re hoping you’ll take the opportunity to help each other in groups, but we’ll also have some academics and grad students come along to help.</p>
