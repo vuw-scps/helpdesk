@@ -12,7 +12,7 @@
 <generator>quarto-1.3.208</generator>
 <lastBuildDate>Mon, 06 Mar 2023 11:00:00 GMT</lastBuildDate>
 <item>
-  <title>LaTeX presentation</title>
+  <title>10 common misconceptions about LaTeX</title>
   <dc:creator>baptiste</dc:creator>
   <link>https://vuw-scps.github.io/helpdesk/posts/latex/index.html</link>
   <description><![CDATA[ 
@@ -20,7 +20,7 @@
 
 
 
-<p>Next week (14th March), in addition to the regular helpdesk session, I’ll give a little teaser presentation (20mins) about LaTeX, for those interested. Start at 12pm.</p>
+<p>Next week (14th March), in addition to the regular helpdesk session, I’ll give a little teaser presentation (20mins) about the <a href="https://en.m.wikipedia.org/wiki/LaTeX">software LaTeX for document preparation</a>, for those interested. Start at 12pm.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://vuw-scps.github.io/helpdesk/posts/latex/presentation.png" class="img-fluid figure-img"></p>
