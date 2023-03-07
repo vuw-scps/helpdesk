@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "posts/latex/index.html",
+    "href": "posts/latex/index.html",
+    "title": "LaTeX presentation",
+    "section": "",
+    "text": "Next week (14th March), in addition to the regular helpdesk session, I’ll give a little teaser presentation (20mins) about LaTeX, for those interested. Start at 12pm.\n\n\n\n10 common misconceptions about LaTeX\n\n\n(regular helpdesk drop-in session before and after)"
+  },
+  {
+    "objectID": "posts/opening/index.html",
+    "href": "posts/opening/index.html",
+    "title": "First meeting",
+    "section": "",
+    "text": "Kia ora everyone\n\n\n\nAims of the helpdesk\n\n\nWe’re launching a weekly Programming helpdesk for Physics students; it will take place on Tuesdays 11:30am–1:30pm in LB203 (Physics labs). All levels (100 to 400) are welcome – we’re hoping you’ll take the opportunity to help each other in groups, but we’ll also have some academics and grad students come along to help.\nTo get the ball rolling for the first session (Tuesday 7th March), there will be pizza and soft drinks at 12:15 pm.\nOnce a month, we’ll also organise a 20–30 minutes “teaser” presentation on some programming topics that you may wish to explore further*.\nThe Physics Team\n*: Tentative list of topics for 2023, in no particular order:\n\n10 common misconceptions about LaTeX\nR.I.P: On using R in Physics\nBibliography management with Zotero and Bibtex\nGrammar of Graphics\nComputational simulations with Julia\nReproducible analyses with Quarto\nInteractive apps with Shiny\nVersion control and collaboration with Github\nCreating a personal website in 10 minutes\n“glue” code"
+  },
+  {
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "Python resources",
+    "section": "",
+    "text": "vuw-scps.github.io/python-physics/: Collection of Jupyter notebooks from different courses across 100-300 Physics\npandas"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "helpdesk",
+    "section": "",
+    "text": "General announcements and updates for the weekly programming helpdesk. You can subscribe to the RSS feed for updates.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nLaTeX presentation\n\n\n\n\n\n\n\nannouncement\n\n\ngeneral\n\n\nlatex\n\n\n\n\n\n\n\n\n\n\n\nMar 7, 2023\n\n\nbaptiste\n\n\n\n\n\n\n  \n\n\n\n\nFirst meeting\n\n\n\n\n\n\n\nannouncement\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2023\n\n\nbaptiste\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is an unofficial website to share misc. resources relating to the weekly helpdesk. Please note that information available on these pages is provided as-is and not necessarily endorsed by the University.\nFor official information, head to the University’s website"
+  },
+  {
+    "objectID": "R.html",
+    "href": "R.html",
+    "title": "R resources",
+    "section": "",
+    "text": "R for data science\nR for data science (2nd edition, in progress)\nHands-on programming with R\nAdvanced R, more for programmers"
+  }
+]
