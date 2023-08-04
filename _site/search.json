@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "posts/MESA/index.html",
+    "href": "posts/MESA/index.html",
+    "title": "Workshop on graphics",
+    "section": "",
+    "text": "Graphics: the good, the bad, and the ugly\nToday’s slides"
+  },
+  {
+    "objectID": "posts/MESA/index.html#resources",
+    "href": "posts/MESA/index.html#resources",
+    "title": "Workshop on graphics",
+    "section": "Resources",
+    "text": "Resources\nNotebook with different Python libraries\nplotting.ipynb\n\nFull dataset of core-satellite absorption spectra\n\n\n\noverview\n\n\n\nparams.dat\nresults.dat\nresults_small.dat\nresults_terms.dat\n\n\n\nToy exercise with solar cell data\n\nDescription of exercise\ndata1.csv\ndata2.txt\ndata3.csv\nOriginal dataset (not needed)\n\n\n\nDemo from the start (R)\n\ndemo_mini.R\ncleanup.R"
+  },
+  {
     "objectID": "posts/latex/index.html",
     "href": "posts/latex/index.html",
     "title": "10 common misconceptions about LaTeX",
@@ -25,7 +39,7 @@
     "href": "index.html",
     "title": "helpdesk",
     "section": "",
-    "text": "General announcements and updates for the weekly programming helpdesk. You can subscribe to the RSS feed for updates.\n\n\n\n\n\n\n\n\n  \n\n\n\n\n10 common misconceptions about LaTeX\n\n\n\n\n\n\n\nannouncement\n\n\ngeneral\n\n\nlatex\n\n\n\n\n\n\n\n\n\n\n\nMar 7, 2023\n\n\nbaptiste\n\n\n\n\n\n\n  \n\n\n\n\nFirst meeting\n\n\n\n\n\n\n\nannouncement\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2023\n\n\nbaptiste\n\n\n\n\n\n\nNo matching items"
+    "text": "General announcements and updates for the weekly programming helpdesk. You can subscribe to the RSS feed for updates.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nWorkshop on graphics\n\n\n\n\n\n\n\ngraphics\n\n\npostgrad\n\n\n\n\n\n\n\n\n\n\n\nAug 4, 2023\n\n\nbaptiste\n\n\n\n\n\n\n  \n\n\n\n\n10 common misconceptions about LaTeX\n\n\n\n\n\n\n\nannouncement\n\n\ngeneral\n\n\nlatex\n\n\n\n\n\n\n\n\n\n\n\nMar 7, 2023\n\n\nbaptiste\n\n\n\n\n\n\n  \n\n\n\n\nFirst meeting\n\n\n\n\n\n\n\nannouncement\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2023\n\n\nbaptiste\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -37,6 +51,13 @@
   {
     "objectID": "R.html",
     "href": "R.html",
+    "title": "R resources",
+    "section": "",
+    "text": "R for data science\nR for data science (2nd edition, in progress)\nHands-on programming with R\nAdvanced R, more for programmers"
+  },
+  {
+    "objectID": "R.html#external-resources",
+    "href": "R.html#external-resources",
     "title": "R resources",
     "section": "",
     "text": "R for data science\nR for data science (2nd edition, in progress)\nHands-on programming with R\nAdvanced R, more for programmers"

@@ -9,11 +9,93 @@
 <link>https://vuw-scps.github.io/helpdesk/index.html</link>
 <atom:link href="https://vuw-scps.github.io/helpdesk/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.3.208</generator>
-<lastBuildDate>Mon, 06 Mar 2023 11:00:00 GMT</lastBuildDate>
+<generator>quarto-1.3.296</generator>
+<lastBuildDate>Thu, 03 Aug 2023 12:00:00 GMT</lastBuildDate>
+<item>
+  <title>Workshop on graphics</title>
+  <dc:creator>baptiste </dc:creator>
+  <link>https://vuw-scps.github.io/helpdesk/posts/MESA/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/graphics.jpg" class="quarto-discovered-preview-image img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Graphics: the good, the bad, and the ugly</figcaption><p></p>
+</figure>
+</div>
+<p>Today’s slides</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-figure quarto-figure-center" style="flex-basis: 33.3%;justify-content: center;">
+<figure class="figure">
+<p><a href="material/graphics_1.pdf"><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/figures/graphics_1.001.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center" style="flex-basis: 33.3%;justify-content: center;">
+<figure class="figure">
+<p><a href="material/graphics_2_tips.pdf"><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/figures/graphics_2_tips.001.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center" style="flex-basis: 33.3%;justify-content: center;">
+<figure class="figure">
+<p><a href="material/graphics_3_grammar.pdf"><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/figures/graphics_3_grammar.001.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+</div>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<p>Notebook with different Python libraries</p>
+<p><a href="material/_plotting.ipynb">plotting.ipynb</a></p>
+<section id="full-dataset-of-core-satellite-absorption-spectra" class="level3">
+<h3 class="anchored" data-anchor-id="full-dataset-of-core-satellite-absorption-spectra">Full dataset of core-satellite absorption spectra</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/figures/overview.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">overview</figcaption><p></p>
+</figure>
+</div>
+<ul>
+<li><a href="material/params.dat">params.dat</a></li>
+<li><a href="material/results.dat">results.dat</a></li>
+<li><a href="material/results_small.dat">results_small.dat</a></li>
+<li><a href="material/results_terms.dat">results_terms.dat</a></li>
+</ul>
+</section>
+<section id="toy-exercise-with-solar-cell-data" class="level3">
+<h3 class="anchored" data-anchor-id="toy-exercise-with-solar-cell-data">Toy exercise with solar cell data</h3>
+<ul>
+<li><a href="material/MESA.pdf">Description of exercise</a></li>
+<li><a href="material/data1.csv">data1.csv</a></li>
+<li><a href="material/data2.txt">data2.txt</a></li>
+<li><a href="material/data3.csv">data3.csv</a></li>
+<li><a href="material/MESA.mat">Original dataset (not needed)</a></li>
+</ul>
+</section>
+<section id="demo-from-the-start-r" class="level3">
+<h3 class="anchored" data-anchor-id="demo-from-the-start-r">Demo from the start (R)</h3>
+<ul>
+<li><a href="material/demo_mini.R">demo_mini.R</a></li>
+<li><a href="material/cleanup.R">cleanup.R</a></li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>graphics</category>
+  <category>postgrad</category>
+  <guid>https://vuw-scps.github.io/helpdesk/posts/MESA/index.html</guid>
+  <pubDate>Thu, 03 Aug 2023 12:00:00 GMT</pubDate>
+  <media:content url="https://vuw-scps.github.io/helpdesk/posts/MESA/graphics.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>10 common misconceptions about LaTeX</title>
-  <dc:creator>baptiste</dc:creator>
+  <dc:creator>baptiste </dc:creator>
   <link>https://vuw-scps.github.io/helpdesk/posts/latex/index.html</link>
   <description><![CDATA[ 
 
@@ -23,7 +105,7 @@
 <p>Next week (14th March), in addition to the regular helpdesk session, I’ll give a little teaser presentation (20mins) about the <a href="https://en.m.wikipedia.org/wiki/LaTeX">software LaTeX for document preparation</a>, for those interested. Start at 12pm.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://vuw-scps.github.io/helpdesk/posts/latex/presentation.png" class="img-fluid figure-img"></p>
+<p><img src="https://vuw-scps.github.io/helpdesk/posts/latex/presentation.png" class="quarto-discovered-preview-image img-fluid figure-img"></p>
 <p></p><figcaption class="figure-caption">10 common misconceptions about LaTeX</figcaption><p></p>
 </figure>
 </div>
@@ -41,7 +123,7 @@
 </item>
 <item>
   <title>First meeting</title>
-  <dc:creator>baptiste</dc:creator>
+  <dc:creator>baptiste </dc:creator>
   <link>https://vuw-scps.github.io/helpdesk/posts/opening/index.html</link>
   <description><![CDATA[ 
 
@@ -51,7 +133,7 @@
 <p>Kia ora everyone</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="intro.pdf"><img src="https://vuw-scps.github.io/helpdesk/posts/opening/overview.png" class="img-fluid figure-img"></a></p>
+<p><a href="intro.pdf"><img src="https://vuw-scps.github.io/helpdesk/posts/opening/overview.png" class="quarto-discovered-preview-image img-fluid figure-img"></a></p>
 <p></p><figcaption class="figure-caption">Aims of the helpdesk (pdf)</figcaption><p></p>
 </figure>
 </div>

@@ -1,0 +1,52 @@
+---
+title: "Workshop on graphics"
+author: "baptiste"
+draft: false
+date: 2023-08-04
+categories: [graphics, postgrad]
+image: "graphics.jpg"
+---
+
+
+![Graphics: the good, the bad, and the ugly](graphics.jpg)
+
+Today's slides
+
+::: {layout="[[1,1,1]]"}
+[![](figures/graphics_1.001.jpeg)](material/graphics_1.pdf)
+
+[![](figures/graphics_2_tips.001.jpeg)](material/graphics_2_tips.pdf)
+
+[![](figures/graphics_3_grammar.001.jpeg)](material/graphics_3_grammar.pdf)
+:::
+
+## Resources
+
+Notebook with different Python libraries
+
+[plotting.ipynb](material/_plotting.ipynb)
+
+
+### Full dataset of core-satellite absorption spectra
+
+![overview](figures/overview.png)
+
+- [params.dat](material/params.dat)
+- [results.dat](material/results.dat)
+- [results_small.dat](material/results_small.dat)
+- [results_terms.dat](material/results_terms.dat)
+
+
+### Toy exercise with solar cell data
+
+- [Description of exercise](material/MESA.pdf)
+- [data1.csv](material/data1.csv)
+- [data2.txt](material/data2.txt)
+- [data3.csv](material/data3.csv)
+- [Original dataset (not needed)](material/MESA.mat)
+
+
+### Demo from the start (R)
+
+- [demo_mini.R](material/demo_mini.R)
+- [cleanup.R](material/cleanup.R)

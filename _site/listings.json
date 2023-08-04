@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/MESA/index.html",
       "/posts/latex/index.html",
       "/posts/opening/index.html"
     ]
