@@ -49,7 +49,7 @@
 <section id="resources" class="level2">
 <h2 class="anchored" data-anchor-id="resources">Resources</h2>
 <p>Notebook with different Python libraries</p>
-<p><a href="plotting.ipynb">plotting.ipynb</a></p>
+<p><a href="../../posts/MESA/material/plotting.html">plotting.ipynb</a></p>
 <section id="full-dataset-of-core-satellite-absorption-spectra" class="level3">
 <h3 class="anchored" data-anchor-id="full-dataset-of-core-satellite-absorption-spectra">Full dataset of core-satellite absorption spectra</h3>
 <p><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/figures/overview.png" class="img-fluid" alt="overview"> - <a href="material/params.dat">params.dat</a> - <a href="material/results.dat">results.dat</a> - <a href="material/results_small.dat">results_small.dat</a> - <a href="material/results_terms.dat">results_terms.dat</a></p>
@@ -2405,7 +2405,7 @@ Warning message:
 
  ]]></description>
   <guid>https://vuw-scps.github.io/helpdesk/posts/MESA/material/demo.html</guid>
-  <pubDate>Fri, 04 Aug 2023 00:01:28 GMT</pubDate>
+  <pubDate>Fri, 04 Aug 2023 00:01:44 GMT</pubDate>
 </item>
 <item>
   <title>Tutorial example: plotting with Python</title>
@@ -3444,7 +3444,7 @@ font-style: inherit;">300</span>)</span>
 
  ]]></description>
   <guid>https://vuw-scps.github.io/helpdesk/posts/MESA/material/plotting.html</guid>
-  <pubDate>Fri, 04 Aug 2023 00:01:28 GMT</pubDate>
+  <pubDate>Fri, 04 Aug 2023 00:01:44 GMT</pubDate>
 </item>
 </channel>
 </rss>
