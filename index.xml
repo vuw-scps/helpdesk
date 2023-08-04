@@ -52,23 +52,23 @@
 <p><a href="plotting.ipynb">plotting.ipynb</a></p>
 <section id="full-dataset-of-core-satellite-absorption-spectra" class="level3">
 <h3 class="anchored" data-anchor-id="full-dataset-of-core-satellite-absorption-spectra">Full dataset of core-satellite absorption spectra</h3>
-<p><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/figures/overview.png" class="img-fluid" alt="overview"> - <a href="params.dat">params.dat</a> - <a href="results.dat">results.dat</a> - <a href="results_small.dat">results_small.dat</a> - <a href="results_terms.dat">results_terms.dat</a></p>
+<p><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/figures/overview.png" class="img-fluid" alt="overview"> - <a href="material/params.dat">params.dat</a> - <a href="material/results.dat">results.dat</a> - <a href="material/results_small.dat">results_small.dat</a> - <a href="material/results_terms.dat">results_terms.dat</a></p>
 </section>
 <section id="toy-exercise-with-solar-cell-data" class="level3">
 <h3 class="anchored" data-anchor-id="toy-exercise-with-solar-cell-data">Toy exercise with solar cell data</h3>
 <ul>
-<li><a href="MESA.pdf">Description of exercise</a></li>
-<li><a href="data1.csv">data1.csv</a></li>
-<li><a href="data2.txt">data2.txt</a></li>
-<li><a href="data3.csv">data3.csv</a></li>
-<li><a href="MESA.mat">Original dataset (not needed)</a></li>
+<li><a href="material/MESA.pdf">Description of exercise</a></li>
+<li><a href="material/data1.csv">data1.csv</a></li>
+<li><a href="material/data2.txt">data2.txt</a></li>
+<li><a href="material/data3.csv">data3.csv</a></li>
+<li><a href="material/MESA.mat">Original dataset (not needed)</a></li>
 </ul>
 </section>
 <section id="demo-from-the-start-r" class="level3">
 <h3 class="anchored" data-anchor-id="demo-from-the-start-r">Demo from the start (R)</h3>
 <ul>
-<li><a href="demo_mini.R">demo_mini.R</a></li>
-<li><a href="cleanup.R">cleanup.R</a></li>
+<li><a href="material/demo_mini.R">demo_mini.R</a></li>
+<li><a href="material/cleanup.R">cleanup.R</a></li>
 </ul>
 
 
@@ -2405,7 +2405,7 @@ Warning message:
 
  ]]></description>
   <guid>https://vuw-scps.github.io/helpdesk/posts/MESA/material/demo.html</guid>
-  <pubDate>Fri, 04 Aug 2023 00:00:39 GMT</pubDate>
+  <pubDate>Fri, 04 Aug 2023 00:01:28 GMT</pubDate>
 </item>
 <item>
   <title>Tutorial example: plotting with Python</title>
@@ -3444,7 +3444,7 @@ font-style: inherit;">300</span>)</span>
 
  ]]></description>
   <guid>https://vuw-scps.github.io/helpdesk/posts/MESA/material/plotting.html</guid>
-  <pubDate>Fri, 04 Aug 2023 00:00:39 GMT</pubDate>
+  <pubDate>Fri, 04 Aug 2023 00:01:28 GMT</pubDate>
 </item>
 </channel>
 </rss>
