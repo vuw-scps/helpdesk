@@ -52,7 +52,18 @@
 <p><a href="material/_plotting.ipynb">plotting.ipynb</a></p>
 <section id="full-dataset-of-core-satellite-absorption-spectra" class="level3">
 <h3 class="anchored" data-anchor-id="full-dataset-of-core-satellite-absorption-spectra">Full dataset of core-satellite absorption spectra</h3>
-<p><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/figures/overview.png" class="img-fluid" alt="overview"> - <a href="material/params.dat">params.dat</a> - <a href="material/results.dat">results.dat</a> - <a href="material/results_small.dat">results_small.dat</a> - <a href="material/results_terms.dat">results_terms.dat</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://vuw-scps.github.io/helpdesk/posts/MESA/figures/overview.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">overview</figcaption><p></p>
+</figure>
+</div>
+<ul>
+<li><a href="material/params.dat">params.dat</a></li>
+<li><a href="material/results.dat">results.dat</a></li>
+<li><a href="material/results_small.dat">results_small.dat</a></li>
+<li><a href="material/results_terms.dat">results_terms.dat</a></li>
+</ul>
 </section>
 <section id="toy-exercise-with-solar-cell-data" class="level3">
 <h3 class="anchored" data-anchor-id="toy-exercise-with-solar-cell-data">Toy exercise with solar cell data</h3>
